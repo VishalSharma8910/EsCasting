@@ -18,7 +18,8 @@
     content: "";
     height: 100%;
     width: 60%;
-    background: #FF3C00;
+    /* background: #FF3C00; */
+    background: black;
     position: absolute;
     top: 0;
     left: -20px;
@@ -65,7 +66,8 @@
     content: "";
     height: 100%;
     width: 46%;
-    background: #FF3C00;
+    /* background: #FF3C00; */
+    background: lightblue;
     position: absolute;
     top: 0;
     right: -20px !important;
@@ -136,7 +138,7 @@ header {
 }
 
 .logo-txt::before {
-    content: "ITSOFT";
+    content: "EveryStair";
     text-transform: uppercase;
     color: #fff;
     font-size: 18px;
@@ -161,7 +163,8 @@ header {
 }
 
 .mm-social-icon a {
-    color: #ff3c00;
+    /* color: #ff3c00; */
+    color: black;
     background: transparent;
     height: 35px;
     width: 35px;
@@ -175,7 +178,8 @@ header {
 
 .mm-social-icon a:hover {
     color: #fff;
-    background: #ff3c00;
+    /* background: #ff3c00; */
+    background: black;
     border: 1px solid #FF3c00;
 }
 
@@ -199,7 +203,8 @@ header {
 }
 
 .menu-wrapper nav ul li:hover a {
-    color: #FF3C00;
+    /* color: #FF3C00; */
+    color: black;
 }
 
 .menu-wrapper nav ul li a i {
@@ -210,7 +215,8 @@ header {
 }
 
 .menu-wrapper nav ul li:hover a i {
-    color: #FF3C00;
+    /* color: #FF3C00; */
+    color: black;
     opacity: .5;
 }
 
@@ -221,8 +227,9 @@ header {
 /*Nav btn*/
 
 .nav-btn a {
-    background: #FF3C00;
-    border: 1px solid #FF3C00;
+    /* background: #FF3C00; */
+    background: black;
+    /* border: 1px solid #FF3C00; */
     border-radius: 3px;
     color: #fff;
     padding: 8px 20px;
@@ -233,19 +240,22 @@ header {
 }
 
 .nav-btn a:hover {
-    background: #bd2d10;
+    background: #ff2f05;
     border-color: #bd2d10;
+    
 }
 
 .nav-btn.style-two a {
     background: transparent;
     border: 1px solid #ff3c00;
-    color: #ff3c00;
+    /* color: #ff3c00; */
+    color: black;
     transition: .5s;
 }
 
 .nav-btn.style-two a:hover {
-    background: #ff3c00;
+    /* background: #ff3c00; */
+    background: black;
     color: #fff;
 }
 
@@ -257,7 +267,8 @@ header {
 
 .uk-sticky-fixed .nav-btn.style-two a:hover {
     background: #fff;
-    color: #ff3c00;
+    /* color: #ff3c00; */
+    color: black;
 }
 
 /*Nav search*/
@@ -270,7 +281,8 @@ header {
 /*Sticky Nav CSS*/
 
 .uk-sticky-fixed {
-    background: #FF3C00;
+    /* background: #FF3C00; */
+    background: black;
     animation-name: slideInDown;
     animation-duration: 1.3s;
 }
@@ -691,7 +703,7 @@ start search Popup Css
 }
 
 /*-------------
-========Start Itsoft Hero Section Style
+========Start  Hero Section Style
 ---------------*/
 
 .hero-section {
